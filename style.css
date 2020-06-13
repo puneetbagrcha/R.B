@@ -1,0 +1,30 @@
+*{font-family: montserrat;}
+
+h2 {padding: 20px;
+      text-align: center;}
+
+ hr { border: 1px; 
+ width: 40%; color: black; }
+
+ .eicon
+ { height:  55px; }
+
+ .title
+ {font-size: 20px;
+ 	font: bold;}
+
+
+.Address:hover
+{ color: black;
+	padding: 20px;
+align-content: center;}
+
+.divider { 
+	align-content:center;
+	height: 20px;}
+.main__footer{
+	background:black; height: 35px;
+	padding:10px;
+	color:white;
+	font-style:white;
+}
